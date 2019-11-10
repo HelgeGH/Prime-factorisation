@@ -1,5 +1,5 @@
 # Prime factorisation
-Gives the primal representation of every integer that you input (provided that it doesn't cause and overflow).
+Gives the primal representation of every integer that you input (provided that it doesn't cause an overflow).
 
 ## Input:
 Any integer **n**.
